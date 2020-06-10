@@ -1,0 +1,33 @@
+.top{
+
+	color: green;
+	border: 5px ;
+}
+
+.list{
+
+	color: red;
+	display: inline;
+	float: left;
+	margin-top: 10px;
+	background-color: yellow;
+
+}
+
+.list1{
+
+	display: inline;
+	margin-left: 20px;
+	margin-top: 10px;
+	float: left;
+	background-color: skyblue;
+
+}
+
+.table1{
+
+	float: left;
+	margin-left: 20px;
+	border-color: red: 
+	margin-top:5px;
+}
